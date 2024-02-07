@@ -1,6 +1,6 @@
 # AI-Practical-Homework
 
-Welcome to the repository for practical homework assignments of the Artificial Intelligence course offered at Sharif University of Technology in Fall 2023, instructed by Professor Dr. Rohban.
+Welcome to the repository for practical assignments of the Artificial Intelligence course offered at Sharif University of Technology in Fall 2023, instructed by Professor Dr. Rohban.
 
 ## Homework Assignments Overview
 
